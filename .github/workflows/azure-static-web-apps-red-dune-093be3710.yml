@@ -27,7 +27,7 @@ jobs:
 
           # ✅ Correct settings for static HTML
           app_location: "/"
-          output_location: "/"
+          output_location: "."
           api_location: ""
 
           # ✅ Disable all builds (prevents Oryx errors)
